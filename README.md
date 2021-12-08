@@ -1,11 +1,4 @@
-# Satyam Goyal&nbsp;<img src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
-
-
-<!-- 
-    &nbsp; [![HitCount](http://hits.dwyl.com/KenMan79sf/KenMan79sf.svg)](http://hits.dwyl.com/KenMan79sf/KenMan79sf) 
--->
-
-### <img src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Hi.gif" width="29px"> Hello world!&nbsp;<img src="https://github.com/KenMan79sf/KenMan79sf/blob/master/Assets/Earth.gif" width="24px">
+# Satyam Goyal&nbsp; 
 
 
 <p>
